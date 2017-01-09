@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Boxy Theme",
+		"Boxy Theme Addon - Font Face",
+		"Haxe",
+		"INI",
+		"Package Control",
+		"Package Syncing",
+		"zz File Icons"
+	]
+}
