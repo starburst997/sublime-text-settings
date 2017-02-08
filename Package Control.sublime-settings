@@ -5,13 +5,13 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"Babel",
 		"Boxy Theme",
 		"Boxy Theme Addon - Font Face",
 		"Haxe",
 		"INI",
 		"Package Control",
-		"Package Syncing",
-		"zz File Icons"
+		"Package Syncing"
 	]
 }
