@@ -12,6 +12,7 @@
 		"Haxe",
 		"INI",
 		"Package Control",
-		"Package Syncing"
+		"Package Syncing",
+		"Pretty JSON"
 	]
 }
