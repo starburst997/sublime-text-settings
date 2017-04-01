@@ -8,6 +8,8 @@
 		"Vintage"
 	],
 	"tab_size": 2,
+	"default_line_ending": "unix",
+	"show_line_endings": true,
 	"theme": "Boxy Ocean.sublime-theme",
 	"theme_accent_cyan": true,
 	"theme_bar": true,
