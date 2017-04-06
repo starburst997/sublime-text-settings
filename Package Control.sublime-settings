@@ -9,10 +9,13 @@
 		"Babel",
 		"Boxy Theme",
 		"Boxy Theme Addon - Font Face",
+		"ColorHelper",
+		"ColorPicker",
 		"Haxe",
 		"INI",
 		"Package Control",
 		"Package Syncing",
-		"Pretty JSON"
+		"Pretty JSON",
+		"SCSS"
 	]
 }
