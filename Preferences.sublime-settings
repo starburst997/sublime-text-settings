@@ -3,6 +3,7 @@
 	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
 	"default_line_ending": "unix",
 	"font_face": "DejaVu Sans Mono",
+	"font_size": 10,
 	"haxe_nme_target": 7,
 	"ignored_packages":
 	[
@@ -10,7 +11,6 @@
 	],
 	"show_line_endings": true,
 	"tab_size": 2,
-	"word_wrap": false,
 	"theme": "Boxy Ocean.sublime-theme",
 	"theme_accent_cyan": true,
 	"theme_bar": true,
@@ -31,5 +31,6 @@
 	"theme_unified": true,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"use_tab_stops": true
+	"use_tab_stops": true,
+	"word_wrap": false
 }
